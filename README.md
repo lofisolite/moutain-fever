@@ -30,4 +30,5 @@ AdobeXD pour les maquettes
 **updraft plus** : sauvegarde base de donnée
 <br>
 **WordFence Security** : Sécurité
-
+<br>
+**Elementor Header & Footer Builder** : header et footer
