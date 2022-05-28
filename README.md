@@ -22,8 +22,12 @@ AdobeXD pour les maquettes
 
 ## Extensions utilisées
 **Extensions Polylang** : Traduction du site en anglais
+<br>
 **Yoast Seo** : Référencement
+<br>
 **Cache enabler** : Mise en cache
+<br>
 **updraft plus** : sauvegarde base de donnée
+<br>
 **WordFence Security** : Sécurité
 
